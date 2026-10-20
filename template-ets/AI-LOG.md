@@ -10,6 +10,16 @@ Log yang jujur tidak mengurangi nilai, sebanyak apa pun AI dipakai. Yang mengura
 - Diubah: (apa yang kamu ubah atau perbaiki dari hasil AI, dan kenapa)
 
 ## (Entri berikutnya)
-- Prompt:
-- Dipakai:
-- Diubah:
+- Prompt: kira2 bagaimana struktur objek/func sperti method ini punya siapa? apakah ada interface? dll
+- Dipakai: -
+- Diubah: 
+- func (s *Store) GetSumberDaya(id int) (SumberDaya, bool) {
+    // Cari sumber daya berdasarkan ID.
+    // Implementasi menyusul.
+    return SumberDaya{}, false
+}
+
+## (Entri berikutnya)
+- Prompt: cek 3 struct di store.go
+- Dipakai: 3 struct di store.go
+- Diubah: menambah Store
