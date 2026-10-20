@@ -20,6 +20,21 @@ Log yang jujur tidak mengurangi nilai, sebanyak apa pun AI dipakai. Yang mengura
 }
 
 ## (Entri berikutnya)
+- Prompt: banyak kode yang di generate hasil autocomplete / inline suggestions
+- Dipakai: store.go, api.go
+- Diubah: store.go, api.go
+
+## (Entri berikutnya)
 - Prompt: cek 3 struct di store.go
 - Dipakai: 3 struct di store.go
-- Diubah: menambah Store
+- Diubah: menambah Store utk masing2 struct
+
+## (Entri berikutnya)
+- Prompt: cek 3 store utk struct di store.go
+- Dipakai: 3 store struct di store.go
+- Diubah: mengubah 3 store menjadi satu store saja
+
+## (Entri berikutnya)
+- Prompt: filter opsional utk list peminjaman
+- Dipakai: func (api *API) listPeminjaman, func (s *Store) ListPeminjaman.
+- Diubah: mengaplikasikan filter

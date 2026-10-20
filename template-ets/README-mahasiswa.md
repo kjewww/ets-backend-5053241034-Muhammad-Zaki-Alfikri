@@ -16,4 +16,4 @@
 - [ ] Change request
 
 ## Yang belum selesai
-(Tulis jujur bagian mana yang belum berjalan.)
+sejujurnya, program ini belum di tes karena fokus ke penulisan kode. jadi kemungkinan masih banyak yg salah. utk yg dirasa sudah selesai adalah: B1, B2, B3, B6, Fitur Persona yang ada di file store.go dan api.go, utk validasi error hanya sebagian, dan sisanya belum.
